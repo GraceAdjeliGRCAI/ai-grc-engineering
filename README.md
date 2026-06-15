@@ -1,3 +1,14 @@
+<div align="center">
+
+### BridgeCore AI LLC — AI Governance Practice
+*Engineering responsible AI governance for federal agencies and enterprises*
+
+*"Governance is not what is defined. It is what is enforced at execution."*
+
+---
+
+</div>
+
 # AI GRC Engineering Portfolio
 
 > A practical, engineering-first approach to AI Governance, Risk, and Compliance —

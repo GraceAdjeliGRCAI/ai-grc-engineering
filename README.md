@@ -118,7 +118,7 @@ follows that chain:
 | Module 3 | Key concepts: Trustworthy AI, AI lifecycle, risk types, impact | ✅ Complete |
 | Module 4 | Real-world application and industry use cases | ✅ Complete |
 | Module 5 | AI risk assessment — deep dive | ✅ Complete |
-| Module 6 | Governance controls | 🔜 Coming |
+| Module 6 | Governance controls | ✅ Complete |
 | Module 7 | Audit readiness and evidence | 🔜 Coming |
 | Module 8 | GRC engineering and automation | 🔜 Coming |
 | Module 9 | Practical templates | 🔜 Coming |

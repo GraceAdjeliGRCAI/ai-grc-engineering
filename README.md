@@ -120,7 +120,7 @@ follows that chain:
 | Module 5 | AI risk assessment — deep dive | ✅ Complete |
 | Module 6 | Governance controls | ✅ Complete |
 | Module 7 | Audit readiness and evidence | ✅ Complete |
-| Module 8 | GRC engineering and automation | 🔜 Coming |
+| Module 8 | GRC engineering and automation | ✅ Complete |
 | Module 9 | Practical templates | 🔜 Coming |
 | Module 10 | Career, interview prep, and capstone | 🔜 Coming |
 

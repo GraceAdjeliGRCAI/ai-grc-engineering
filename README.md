@@ -122,7 +122,7 @@ follows that chain:
 | Module 7 | Audit readiness and evidence | ✅ Complete |
 | Module 8 | GRC engineering and automation | ✅ Complete |
 | Module 9 | Practical templates | ✅ Complete |
-| Module 10 | Career, interview prep, and capstone | ✅ Complete |
+| Module 10 | Cross-framework capstone and applied case study | ✅ Complete |
 
 ---
 
